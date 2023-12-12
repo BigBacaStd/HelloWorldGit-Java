@@ -4,6 +4,7 @@ public class Main {
 
         System.out.printf("Hello Java!");
         System.out.println("Commit test #1");
+        System.out.println("commit test #2");
 
     }
 }
